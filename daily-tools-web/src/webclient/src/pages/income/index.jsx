@@ -91,7 +91,7 @@ export default class Index extends React.Component {
           </Form>
         </div>
 
-        <Footer style={{textAlign: 'center', width: "100%", position: "absolute", bottom: 0}}>YD: 投入金额和天数的乘积</Footer>
+        <Footer style={{textAlign: 'center', width: "100%", position: "absolute", bottom: 0}}>YD: 元·天，即投入金额与天数的乘积</Footer>
       </Layout>
     );
   }
